@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+## Emma Pinegar
 
-You can use the [editor on GitHub](https://github.com/emmapinegar/emmapinegar.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am a undergraduate studying Computer Science at the University of Utah graduating Fall 2021. I am currently completing a senior capstone project with three teammates and researching at the Learning Lab for Manipulation Autonomy. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am passionate about robotics and find medical robotics particularly fascinating. In the fall I will be taking graduate courses in mechanical engineering and computer science with a focus on robotics. 
 
-### Markdown
+## Experience
+I am currently an undergraduate researcher with the Learning Lab for Manipulation Autonomy and will be continuing to do so for the forseeable future. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Projects
+I have worked on several projects recently, the most notable being:
+- 3D object reconstruction in scenes with multiple objects
+- Android app with remote music controls, texting, dialing, toggling do not disturb, etc. using an Arduino with gesture recognition
+- Industrial inspection of Coca Cola bottles using the image processing toolbox in Matlab
+- Baxter pick-and-place using contrained 6 DOF inverse kinematics
 
-```markdown
-Syntax highlighted code block
+## Coursework
+Robotics:
+- Intro to Robotics
+- Image Processing
+- Electrical Engineering
+- Undergraduate Research
 
-# Header 1
-## Header 2
-### Header 3
+Computer Science:
+- Senior Capstone Design & Project
+- Scientific Computing
+- Human/Computer Interaction
+- Computer Networking
+- Data Structures & Algorithms 
+- Computer Systems
+- Computer Organization
+- Software Practices I & II
+- Discrete Mathematics
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/emmapinegar/emmapinegar.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Other STEM:
+- Ordinary Differential Equations
+- Linear Algebra
+- Physics I 
+- Calculus I - III
