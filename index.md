@@ -5,7 +5,7 @@ I am a undergraduate studying Computer Science at the University of Utah graduat
 I am passionate about robotics and find medical robotics particularly fascinating. In the fall I will be taking graduate courses in mechanical engineering and computer science with a focus on robotics. 
 
 ## Experience
-I am currently an undergraduate researcher with the Learning Lab for Manipulation Autonomy and will be continuing to do so for the forseeable future. 
+I am currently an undergraduate researcher with the Learning Lab for Manipulation Autonomy funded by an NSF REU and UROP. 
 
 ## Projects
 I have worked on several projects recently, the most notable being:
@@ -37,3 +37,10 @@ Other STEM:
 - Linear Algebra
 - Physics I 
 - Calculus I - III
+
+## Awards & Honors
+- UROP Scholar Fall 2021
+- Inclusion@RSS Fellow 2021
+- NSF REU Summer 2021
+- Senior Capstone Project Honorable Mention Spring 2021
+- Dean's List
