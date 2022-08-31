@@ -1,9 +1,9 @@
 ## Emma Pinegar
 
-I'm a first year PhD student studying Mechanical Engineering at the University of Utah. I earned my BS in Computer Science also from the University of Utah in Fall 2021.  
+I'm a first year MS student studying Mechanical Engineering at the University of Utah. I earned my BS in Computer Science also from the University of Utah in Fall 2021.  
 
 ## Experience
-I am currently a graduate student researcher at the Utah Wearable Robotics Lab directed by Dr. Haohan Zhang. I am primarily focusing on robotics applications that help treat medical conditions or improve the quality of life of disabled persons. 
+I am currently a teaching assistant for the Introduction to Robotics course at the University of Utah. I was previously a graduate student researcher at the Utah Wearable Robotics Lab directed by Dr. Haohan Zhang. I am primarily focusing on robotics applications that help treat medical conditions or improve the quality of life of disabled persons. As an undergraduate I worked with Dr. Tucker Hermans researching 3D reconstruction methods that could be applied to several computer vision tasks. 
 
 ## Projects
 I have worked on several projects recently, the most notable being:
