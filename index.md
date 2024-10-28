@@ -1,9 +1,9 @@
 ## Emma Pinegar
 
-I'm a second year PhD student studying Mechanical Engineering at the University of Utah. I earned my BS in Computer Science also from the University of Utah in Fall 2021.  
+I'm a third year PhD student studying Robotics at the University of Utah. I earned my MS in Mechanical Engineering in Spring 2024 and BS in Computer Science in Fall 2021, both from the University of Utah. I love robots and can be a bit of a visualization nerd but I'm proud of it. Outside of my academic pursuits, I enjoy biking (mostly road and gravel), swimming (mostly in pools, I got attacked by a swan when I was swimming in Lake Lucerne), baking, puzzling, mending and making clothes, going for walks and hikes, petting every dog I can, being a silly goose, and reading (or listening to) a good book. I have lots of other hobbies I want to try more like kayaking, sailing, bikepacking, and knitting.   
 
 ## Experience
-I am currently a teaching assistant for graduate level AI, and have previously TA'd the Introduction to Robotics course at the University of Utah. I am advised by Professors Alan Kuntz and Jake Abbott working on a new kind of steerable needle. I am primarily focusing on robotics applications that help treat medical conditions or improve the quality of life of disabled persons. As an undergraduate I worked with Dr. Tucker Hermans researching 3D reconstruction methods that could be applied to several computer vision tasks. 
+I am currently a graduate research assistant working on motion planning for magnetically steerable needles and untethered magnetic screws. I have previously TA'd the graduate level AI course and Introduction to Robotics course (twice) at the University of Utah. I am advised by Professors Alan Kuntz and Jake Abbott working on my research in steerable needles and screws. I am also in charge of outreach for the Kuntz Lab, please contact me if you are interested in a lab tour. I am primarily focusing on robotics applications that help treat medical conditions or improve the quality of life of disabled persons. As an undergraduate I worked with Dr. Tucker Hermans researching 3D reconstruction methods that could be applied to several computer vision tasks. 
 
 ## Projects
 I have worked on several projects recently, the most notable being:
@@ -20,11 +20,16 @@ I have worked on several projects recently, the most notable being:
 - Magnetically Actuated Cannulas Can Assist In Their Own Insertion: HAMLYN 2022
 
 ## Presentations
+- Introduction to Robotics Inverse Kinematics Course Lecture October 2023
 - Computing Research Day Poster Presentation March 2023
 - Artificial Intelligence Course Lecture March 2023
 - Undergraduate Research Symposium November 2021
 
 ## Coursework
+- Visualization for Data Science
+- Visualization for Scientific Data
+- State Space Control
+- System Identification for Robotics
 - Motion Planning
 - Neural Engineering
 - Robot Millisystems
@@ -34,7 +39,6 @@ I have worked on several projects recently, the most notable being:
 - Intro to Robotics
 - Image Processing
 - Electrical Engineering
-- Artificial Intelligence
 - Scientific Computing
 - Human/Computer Interaction
 - Computer Networking
